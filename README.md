@@ -25,5 +25,5 @@
 
 2. Lancez les conteneurs Docker :
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
